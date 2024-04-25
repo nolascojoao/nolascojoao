@@ -21,5 +21,7 @@ currently studying for my degree in Software Engineering at IESB University Cent
 <a href="https://github.com/nolascojoao/mastering-mongodb7-study"><img src="https://content.packt.com/_/image/original/B21720/cover_image_large.jpg" alt="Mastering MongoDB 7.0 - Fourth Edition" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/modern-api-spring6-boot3-study"><img src="https://content.packt.com/_/image/original/B19349/cover_image_large.jpg" alt="Modern API Development with Spring 6 and Spring Boot 3" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/spring-in-action6-study"><img src="https://images.manning.com/360/480/resize/book/c/108ea71-54af-47b6-9c39-148a1dc0ce4c/Walls-Spring-6ed-HI.png" alt="Modern API Development with Spring and Spring Boot" height="160px" align="center"></a>
+<a href="https://github.com/nolascojoao/learning-angular-study"><img src="https://content.packt.com/_/image/original/B18468/cover_image_large.jpg" alt="Learn Angular" height="160px" align="center"></a>
+<a href="https://github.com/nolascojoao/learn-java-with-projects-study"><img src="https://content.packt.com/_/image/original/B19793/cover_image_large.jpg" alt="Learn Java with Projects" height="160px" align="center"></a>
 
 </div>
