@@ -4,7 +4,6 @@ currently studying for my degree in Software Engineering at IESB University Cent
 - ☕ I love Java and I chose to start with it, focusing on backend development. However, I am open to exploring other technologies.
 - ⚡️ Web development, Blockchain, and Embedded Systems are among my areas of interest.
 - 📚 I really enjoy studying through books, docs, and research.
-- 📫 You can write me at nolascojoaops@gmail.com
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolascojoao&layout=compact" alt="Top Langs">
