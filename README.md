@@ -15,6 +15,7 @@ currently studying for my degree in Software Engineering at IESB University Cent
 
 <div align="center">
   
+<a href="https://github.com/nolascojoao/tdd-with-java"><img src="https://content.packt.com/_/image/original/B18384/cover_image_large.jpg" alt="Test-Driven Development with Java" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/full-stack-quarkus-react-study"><img src="https://content.packt.com/_/image/original/B16961/cover_image_large.jpg" alt="Full Stack Quarkus and React" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/learn-python-programming-study"><img src="https://content.packt.com/_/image/original/B17579/cover_image_large.jpg" alt="Learn Python Programming, 3rd edition" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/mastering-mongodb7-study"><img src="https://content.packt.com/_/image/original/B21720/cover_image_large.jpg" alt="Mastering MongoDB 7.0 - Fourth Edition" height="160px" align="center"></a>
