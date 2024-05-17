@@ -22,5 +22,7 @@ currently studying for my degree in Software Engineering at IESB University Cent
 <a href="https://github.com/nolascojoao/spring-in-action6-study"><img src="https://images.manning.com/360/480/resize/book/c/108ea71-54af-47b6-9c39-148a1dc0ce4c/Walls-Spring-6ed-HI.png" alt="Modern API Development with Spring and Spring Boot" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/learning-angular-study"><img src="https://content.packt.com/_/image/original/B18468/cover_image_large.jpg" alt="Learn Angular" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/learn-java-with-projects-study"><img src="https://content.packt.com/_/image/original/B19793/cover_image_large.jpg" alt="Learn Java with Projects" height="160px" align="center"></a>
+<a href="https://github.com/nolascojoao/tdd-java"><img src="https://kaczanowscy.pl/img/cover_junit_2_330.png" alt="Practical Unit Testing" height="160px" align="center"></a>
+<a href="https://github.com/nolascojoao/test-driven-development-by-example"><img src="https://m.media-amazon.com/images/I/61a+MLItPHL._SY466_.jpg" alt="Test Driven Development: By Example" height="160px" align="center"></a>
 
 </div>
