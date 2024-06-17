@@ -24,5 +24,6 @@ currently studying for my degree in Software Engineering at IESB University Cent
 <a href="https://github.com/nolascojoao/tdd-java"><img src="https://kaczanowscy.pl/img/cover_junit_2_330.png" alt="Practical Unit Testing" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/test-driven-development-by-example"><img src="https://m.media-amazon.com/images/I/61a+MLItPHL._SY466_.jpg" alt="Test Driven Development: By Example" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/selenium-webdriver-test-automation/tree/main"><img src="https://orangeava.com/cdn/shop/files/Ultimate-Selenium-WebDriver-for-Test-Automation-_Straight_1000x.jpg?v=1709103888" alt="Selenium WebDriver for Test Automation" height="160px" align="center"></a>
+<a href="https://github.com/nolascojoao/bad-tests-good-tests"><img src="https://kaczanowscy.pl/img/cover_btgt_a4_350.jpg" alt="Bad Tests Good Tests" height="160px" align="center"></a>
 
 </div>
