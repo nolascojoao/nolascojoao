@@ -15,6 +15,7 @@ currently studying for my degree in Software Engineering at IESB University Cent
 
 <div align="center">
 
+<a href="https://github.com/nolascojoao/cucumber-selenium-java"><img src="https://bpbonline.com/cdn/shop/products/464_Front_200x.jpg?v=1628589380" alt="Mastering Behavior-Driven Development Using Cucumber" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/effective-software-testing"><img src="https://images.manning.com/360/480/resize/book/c/2968c4d-e888-4d9c-b3eb-cc74e7aa2ebb/Aniche-HI.png" alt="Effective Software Testing" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/tdd-with-java"><img src="https://content.packt.com/_/image/original/B18384/cover_image_large.jpg" alt="Test-Driven Development with Java" height="160px" align="center"></a>
 <a href="https://github.com/nolascojoao/full-stack-quarkus-react-study"><img src="https://content.packt.com/_/image/original/B16961/cover_image_large.jpg" alt="Full Stack Quarkus and React" height="160px" align="center"></a>
