@@ -1,5 +1,6 @@
 - ⚡ Hi, I'm João Pedro 
-- 🔨 I'm building a career focused on Cloud Computing, DevSecOps, and FinOps 
+- 🔨 I'm building a career focused on Cloud Computing, DevSecOps, and FinOps
+- 🌐 Visit my portfolio at [joaonolasco.com.br](https://joaonolasco.com.br)
 
 #
 
